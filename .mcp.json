@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "modus-assistant": {
+      "type": "http",
+      "url": "https://mcp.getmodus.com/assistant"
+    },
+    "modus-context": {
+      "type": "http",
+      "url": "https://mcp.getmodus.com/context"
+    },
+    "modus-organization": {
+      "type": "http",
+      "url": "https://api.getmodus.com/api/v1/mcp"
+    }
+  }
+}

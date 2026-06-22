@@ -1,0 +1,30 @@
+{
+  "name": "modus",
+  "owner": {
+    "name": "Modus"
+  },
+  "plugins": [
+    {
+      "name": "modus",
+      "source": "./",
+      "description": "Connect Claude to your organization's Modus context layer: chat with published skills, ground answers in curated org context, and (for admins) manage skills and agents. Three OAuth-secured remote MCP servers; you pick your org when you sign in.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Modus",
+        "url": "https://getmodus.com"
+      },
+      "homepage": "https://getmodus.com",
+      "repository": "https://github.com/modus-data/modus-claude-plugin",
+      "license": "UNLICENSED",
+      "keywords": [
+        "modus",
+        "mcp",
+        "context",
+        "skills",
+        "agents",
+        "data",
+        "analytics"
+      ]
+    }
+  ]
+}
