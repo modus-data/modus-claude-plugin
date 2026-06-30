@@ -1,0 +1,30 @@
+{
+  "name": "modus",
+  "owner": {
+    "name": "Modus"
+  },
+  "plugins": [
+    {
+      "name": "modus",
+      "source": "./",
+      "description": "Connect Claude to your organization's Modus context layer: chat with published scopes (org experts), ground answers in curated org context, and (for admins) manage scopes and workflows. One unified Modus MCP exposed as context and manage connections; you pick your org when you sign in.",
+      "version": "0.4.1",
+      "author": {
+        "name": "Modus",
+        "url": "https://getmodus.com"
+      },
+      "homepage": "https://getmodus.com",
+      "repository": "https://github.com/modus-data/modus-claude-plugin",
+      "license": "UNLICENSED",
+      "keywords": [
+        "modus",
+        "mcp",
+        "context",
+        "scopes",
+        "workflows",
+        "data",
+        "analytics"
+      ]
+    }
+  ]
+}
