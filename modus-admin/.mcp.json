@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "modus-admin": {
+      "type": "http",
+      "url": "https://mcp.getmodus.com/modus?toolsets=manage"
+    }
+  }
+}
