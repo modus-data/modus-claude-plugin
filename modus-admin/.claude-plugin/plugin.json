@@ -1,0 +1,22 @@
+{
+  "name": "modus-admin",
+  "displayName": "Modus Admin",
+  "description": "Administrative surface for Modus: create, update, deploy, and delete scopes, workflows, and context items. Requires admin permissions in Modus. Install alongside the `modus` plugin from the same marketplace; most users do not need it.",
+  "version": "0.5.1",
+  "author": {
+    "name": "Modus",
+    "url": "https://getmodus.com"
+  },
+  "homepage": "https://getmodus.com",
+  "repository": "https://github.com/modus-data/modus-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "modus",
+    "mcp",
+    "admin",
+    "management",
+    "scopes",
+    "workflows"
+  ],
+  "mcpServers": "./.mcp.json"
+}
