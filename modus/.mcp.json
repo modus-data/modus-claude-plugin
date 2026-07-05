@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "modus-context": {
+      "type": "http",
+      "url": "https://mcp.getmodus.com/modus?toolsets=context",
+      "timeout": 180000
+    }
+  }
+}
